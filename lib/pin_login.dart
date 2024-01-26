@@ -64,7 +64,7 @@ class _pinLogin extends State<pin_login> {
         alignment: Alignment.center,
         decoration: BoxDecoration(
           border: Border.all(
-            width: 0.5,
+            width: 0.9,
             color: Color(0xFFb6b3b6),
           ),
         ),
